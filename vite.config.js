@@ -7,5 +7,5 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [tailwindcss(),
     react()],
-    base:"/Task-Management-System"
+    base:"/Task-Management-System/"
 })
